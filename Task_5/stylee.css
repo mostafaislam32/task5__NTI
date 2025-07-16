@@ -1,0 +1,52 @@
+.bg-cream {
+   background-color: #F9F1E7;
+}
+
+.bg-light-peach {
+   background-color: #FEECE2;
+}
+
+.bg-primary-dark {
+   background-color: #B88E47;
+}
+
+.color-purple {
+   background-color: #816DFA;
+}
+
+.color-black {
+   background-color: #000000;
+}
+
+.color-brown {
+   background-color: #B88E47;
+}
+
+.text-secondary-dark {
+   color: #555;
+}
+
+.btn-outline-primary {
+   --bs-btn-color: #B88E47;
+   --bs-btn-border-color: #B88E47;
+   --bs-btn-hover-color: #fff;
+   --bs-btn-hover-bg: #B88E47;
+   --bs-btn-hover-border-color: #B88E47;
+   --bs-btn-active-color: #fff;
+   --bs-btn-active-bg: #a0783b;
+   --bs-btn-active-border-color: #a0783b;
+}
+
+.product-details-section .bg-body-secondary {
+   border: 1px solid rgba(0, 0, 0, 0.08);
+   padding: 0.5rem; 
+}
+
+.product-extra-images div.rounded-3.bg-light-peach {
+   border: 1px solid rgba(0, 0, 0, 0.08);
+   padding: 8px;
+}
+
+.card-img-top {
+   border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
